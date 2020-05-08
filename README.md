@@ -7,7 +7,7 @@ Run this commands in your terminal:
 
 1.```sudo apt install git python```
 
-2.```git clone https://github.com/RahulHackz/Instagrute```
+2.```git clone https://github.com/RahulHackz/Instagruter```
 
 3.```cd Instagruter```
 
